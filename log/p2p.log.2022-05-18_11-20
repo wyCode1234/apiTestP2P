@@ -1,0 +1,4 @@
+2022-05-18 11:18:28,877 INFO [root] [__init__.py(<module>:5)] - info
+2022-05-18 11:18:28,878 ERROR [root] [__init__.py(<module>:6)] - error
+2022-05-18 11:20:36,162 INFO [root] [__init__.py(<module>:5)] - info
+2022-05-18 11:20:36,162 ERROR [root] [__init__.py(<module>:6)] - error
